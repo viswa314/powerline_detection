@@ -6,7 +6,9 @@
 An advanced perception pipeline for detecting and tracking powerlines from 3D Point Cloud Data (PCD). This project focuses on high-precision geometric extraction and semantic filtering of aerial LiDAR data.
 
 ## 📺 Detection Results
-![Powerline Detection Demo](media/demo.webm)
+## 📺 Detection Results
+<video src="media/Task%206.mp4" controls="controls" style="max-width: 100%;">
+</video>
 *Visualization of the powerline extraction process from PCD sequences.*
 
 ## 🌟 Features
