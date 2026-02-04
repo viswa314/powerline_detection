@@ -1,0 +1,14 @@
+# Datasets (Extremely Large)
+pcd/
+*.ply
+*.pcd
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+
+# OS
+.DS_Store
