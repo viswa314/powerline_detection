@@ -7,9 +7,8 @@ An advanced perception pipeline for detecting and tracking powerlines from 3D Po
 
 ## 📺 Detection Results
 ## 📺 Detection Results
-<video src="media/Task%206.mp4" controls="controls" style="max-width: 100%;">
-</video>
-*Visualization of the powerline extraction process from PCD sequences.*
+[![Click to Watch](https://img.shields.io/badge/▶_Watch_Demo-blue?style=for-the-badge&logo=youtube)](media/Task%206.mp4)
+*Visualization of the powerline extraction process from PCD sequences. (Click badge to view)*
 
 ## 🌟 Features
 - **Geometric Extraction**: Uses RANSAC and Euclidean Clustering to isolate thin, linear structures from complex backgrounds.
